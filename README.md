@@ -22,4 +22,4 @@ I recently completed a deep dive into Diwali sales data, revealing fascinating t
 💥Most Sold: Products in Food, Clothing, and Electronics categories were the top sellers during Diwali.
 💥 Takeaway: Brands should focus on these categories for seasonal promotions.
 
-hashtag#DiwaliSales hashtag#MarketInsights hashtag#ConsumerBehavior hashtag#DataAnalysis hashtag#MarketingStrategy hashtag#Ecommerce hashtag#FestiveShopping hashtag#WomenEmpowerment hashtag#BusinessTrends hashtag#SalesAnalysis
+
